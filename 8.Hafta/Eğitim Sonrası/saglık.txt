@@ -1,0 +1,24 @@
+kullanıcı adı melda tarhan
+kullanıcının yaş, kilo, boy bilgisi 22, 50.0, 170.0
+kullanıcının vki 0.0
+değer aralığı ZAYIF
+oluşturma tarihi Fri Apr 14 21:18:59 2023
+********************
+kullanıcı adı Gülen Tarhan
+kullanıcının yaş, kilo, boy bilgisi 26, 65.0, 160.0
+kullanıcının vki 0.0
+değer aralığı ZAYIF
+oluşturma tarihi Fri Apr 14 21:19:16 2023
+********************
+kullanıcı adı Melda Tarhan
+kullanıcının yaş, kilo, boy bilgisi 22, 50.0, 170.0
+kullanıcının vki 0.0
+değer aralığı ZAYIF
+oluşturma tarihi Fri Apr 14 21:36:02 2023
+********************
+kullanıcı adı Melda
+kullanıcının yaş, kilo, boy bilgisi 22, 50.0, 170.0
+kullanıcının vki 0.0
+değer aralığı ZAYIF
+oluşturma tarihi Fri Apr 14 21:37:10 2023
+********************
