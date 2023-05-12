@@ -7,7 +7,6 @@ giris = input("Lutfen oyunu baslatmak icin herhangi bir sayiya basin: ")
 try:
     if giris == '1':
         giris = int(giris)
-    
     else:
         print("Lutfen oyuna baslamak icin 1'e basin")
         sys.exit()
